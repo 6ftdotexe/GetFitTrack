@@ -1,7 +1,7 @@
 {
-  "name": "workout-tracker",
+  "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "workout tracker",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
