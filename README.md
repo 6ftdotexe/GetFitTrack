@@ -18,7 +18,7 @@
   ---
 
   ## Description
-    - Track workouts
+    - The purpose of this app is to track workouts and see a overview of your previous workout progression
 
 ---
   ## Table of Contents
@@ -44,7 +44,7 @@
 ---
 
   ## Usage
- The purpose of this app is to track workouts and see a overview of your previous workout progression
+    Track Workouts
 
   ### User Story
 
