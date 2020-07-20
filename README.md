@@ -49,7 +49,7 @@
   ### User Story
 
 ```
-  AS an Athlete 
+  AS an Adult
 
   I WANT a Workout Tracker
 
