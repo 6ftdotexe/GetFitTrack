@@ -85,7 +85,7 @@
   
   ## DEMO
   
-  ## ![Working App Demo](./assets/Demo.gif)
+  ## ![Working App Demo](./assets/demo.gif)
     
   ---
   
