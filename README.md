@@ -75,11 +75,11 @@
   
   ## Screenshots
   
-  ## ![Home Page](./assets/home.png)
+  ## ![Home Page](./assets/home.PNG)
   
-  ## ![New Workout Page](./assets/newworkout.png)
+  ## ![New Workout Page](./assets/newworkout.PNG)
   
-  ## ![Overview Page](./assets/dashboard.png)
+  ## ![Overview Page](./assets/dashboard.PNG)
   
   ---
   
