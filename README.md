@@ -1,51 +1,102 @@
-# Unit 17 Nosql Homework: Workout Tracker
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+  # GetFitTrack
+  
+  ## Deployed Application
+  
+  * https://getfittrack.herokuapp.com/
+  
+---
 
-## User Story
+  ## Github Repo
+  
+  * https://https://github.com/6ftdotexe/GetFitTrack
+  
+---
+  
+  ![Github](https://img.shields.io/github/last-commit/6ftdotexe/GetFitTrack)
+  
+  ---
 
-* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+  ## Description
+    - Track workouts
 
-## Business Context
+---
+  ## Table of Contents
+   - [Installation](#installation)
+   - [Usage](#usage)
+   - [Contributors](#contributors)
+   - [Tests](#tests)
+   - [Screenshots](#screenshots)
+   - [Demo](#demo)
+   - [Questions](#questions)
+   - [License](#license)
 
-A consumer will reach their fitness goals quicker when they track their workout progress.
+ ---
 
-## Acceptance Criteria
+  ## Installation
+ 
+  - To install necessary dependencies, run the following command:
 
-When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
+```
+  npm start
+```
 
-The user should be able to:
+---
 
-  * Add exercises to a previous workout plan.
+  ## Usage
+ The purpose of this app is to track workouts and see a overview of your previous workout progression
 
-  * Add new exercises to a new workout plan.
+  ### User Story
 
-  * View multiple the combined weight of multiple exercises on the `stats` page.
+```
+  AS an Athlete 
 
-## Commit Early and Often
+  I WANT a Workout Tracker
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+  SO THAT I can Track my workouts
+```
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+---
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+  ## Contributors
 
-Follow these guidelines for committing:
+  - Lance Page
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+ ---
+ 
+  ## Tests
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+  To run tests, run the following command:
 
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
+```
+  npm run test
+  ```
+  ---
+  
+  ## Screenshots
+  
+  ## ![Home Page](./assets/home.png)
+  
+  ## ![New Workout Page](./assets/newworkout.png)
+  
+  ## ![Overview Page](./assets/dashboard.png)
+  
+  ---
+  
+  ## DEMO
+  
+  ## ![Working App Demo](./assets/Demo.gif)
+    
+  ---
+  
+  ## Questions
+  
+  if you have questions please leave a comment.
+  
+  ---
+  
+   ## License
 
-* Test your application before you commit to ensure functionality at every step in the development process
+  This project is licensed under the ISC license.
 
-We would like you to have well over 200 commits by graduation, so commit early and often!
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the Github repository
