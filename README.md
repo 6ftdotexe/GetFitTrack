@@ -79,7 +79,7 @@
   
   ## ![New Workout Page](./assets/newworkout.PNG)
   
-  ## ![Overview Page](./assets/dashboard.PNG)
+  ## ![Overview Page](./assets/Dashboard.PNG)
   
   ---
   
