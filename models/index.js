@@ -1,1 +1,3 @@
-// Index model
+module.exports = {
+    Workout: require("./workout")
+}
